@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "588470533859",
+    "project_id": "flutter-memo-app-da415",
+    "storage_bucket": "flutter-memo-app-da415.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:588470533859:android:7ce829038f063be3d28fd6",
+        "android_client_info": {
+          "package_name": "com.example.practice__flutter_memo_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaWaLhqjge15u4JqocB2_SyfQj5wKjtVA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
